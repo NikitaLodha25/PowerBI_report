@@ -5,7 +5,7 @@ This repository contains a Power BI report focused on analyzing various aspects 
 
 <p>&nbsp;</p>
 <p align="center">
-  <img width="730" alt="image" src="https://github.com/NikitaLodha25/PowerBI_report/assets/84386819/a0bf49a6-4448-4a0e-a346-503575d277c1">
+  <img width="729" alt="image" src="https://github.com/NikitaLodha25/PowerBI_report/assets/84386819/ee386305-e965-4e6b-8c25-850d7614e8d2">
 </p>
 <p>&nbsp;</p>
 <p align="center">
