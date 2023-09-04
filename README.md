@@ -2,6 +2,11 @@
 
 ## Overview
 This repository contains a Power BI report focused on analyzing various aspects of Generation Z (Gen Z) based on provided datasets. Gen Z is the demographic cohort succeeding Millennials and preceding Generation Alpha. The report offers insights into Gen Z's career aspirations, preferences, and more.
+
+<p>&nbsp;</p>
+<p align="center">
+  <img width="730" alt="image" src="https://github.com/NikitaLodha25/PowerBI_report/assets/84386819/a0bf49a6-4448-4a0e-a346-503575d277c1">
+</p>
 <p>&nbsp;</p>
 <p align="center">
   <img width="730" alt="image" src="https://github.com/NikitaLodha25/PowerBI_report/assets/84386819/3f9796d3-6930-425f-b3c6-81db27de5995">
